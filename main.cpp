@@ -1,5 +1,5 @@
 /*
-  Parke Lovett
+  Parke
   09/28/2022
   We will validate that user input is all digits and positive,
   then add the two numbers together
